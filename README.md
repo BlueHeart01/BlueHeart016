@@ -22,3 +22,4 @@
 
 🧬 Android Performance Boosters (thermal, network, and UI tuning)
 
+💿 Started Support for Rising revived OS for Redwood
